@@ -20,8 +20,6 @@ O objetivo **não é fornecer uma biblioteca pronta**, mas sim **demonstrar o ra
 - Árvore de busca binária (BST)
 - Árvore AVL
 
-> Algumas implementações priorizam **clareza didática** em vez de performance ou generalização extrema.
-
 ---
 
 ## Contexto e propósito
